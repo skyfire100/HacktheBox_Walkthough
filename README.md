@@ -1,1 +1,1 @@
-A collection of my notes for various HTB Boxes i've completed
+A collection of my notes for various HTB Boxes I have completed.
